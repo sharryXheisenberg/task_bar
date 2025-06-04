@@ -108,7 +108,7 @@ task-bar/
 This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
-For any queries or suggestions, feel free to reach out via [GitHub Issues](https://github.com/sharryXheisenberg/PasteManager/issues).
+For any queries or suggestions, feel free to reach out via [GitHub Issues](https://github.com/sharryXheisenberg/task_bar/issues).
 
 ## Acknowledgements
 
@@ -116,5 +116,4 @@ For any queries or suggestions, feel free to reach out via [GitHub Issues](https
 - [React](https://reactjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Redux toolkit](https://redux-toolkit.js.org/)
-- [React hot toast](https://www.npmjs.com/package/react-hot-toast)
     
